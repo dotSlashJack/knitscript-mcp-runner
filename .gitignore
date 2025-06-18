@@ -14,3 +14,7 @@ knitout-to-dat.js
 *.js
 
 tmp/*
+
+.DS_Store
+
+*.DS_Store
