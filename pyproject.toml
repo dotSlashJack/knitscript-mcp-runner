@@ -1,0 +1,10 @@
+[project]
+name = "knitscript-mcp-runner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "knit-script>=0.1.27",
+    "mcp[cli]>=1.9.4",
+]
